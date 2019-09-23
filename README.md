@@ -1,4 +1,4 @@
-# object_detection_nut_analysis
+# object_detection_placed_center
 
 When you run the program, it gives you the type of the object placed in the center.
 
