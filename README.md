@@ -10,7 +10,7 @@ I used cv2.HoughCircles to detect circles in the image.
 - If there is no circle detected then, I found the contours of that object by using cv2.findContours. 
 By looking at the area, I decided whether it a hexagon or not. Then I wrote the outcome in a text file as well as drew the contour.
 
-Here is an example of the result of this object detection algorithm:
+Here are the two examples of objects placed in the center:
 
 ![hexagon_result](https://github.com/mandalinadagi/object_detection_nut_analysis/blob/master/hexagon_example.png)
 ![circle_result](https://github.com/mandalinadagi/object_detection_nut_analysis/blob/master/circle_example.png)
