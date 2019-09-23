@@ -13,6 +13,7 @@ By looking at the area, I decided whether it a hexagon or not. Then I wrote the 
 Here is an example of the result of this object detection algorithm:
 
 ![hexagon_result](https://github.com/mandalinadagi/object_detection_nut_analysis/blob/master/hexagon_example.png)
+![circle_result](https://github.com/mandalinadagi/object_detection_nut_analysis/blob/master/circle_example.png)
 
 In case of any problem, please contact me via this e-mail address: mandalinadagi@gmail.com
 
