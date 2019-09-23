@@ -1,6 +1,6 @@
 # object_detection_placed_center
 
-When you run the program, it gives you the type of the object placed in the center.
+When you run the program, it gives you the type of the object placed in the center. The python script is coded in Jupyter Notebook using OpenCV.
 
 To run python file called hexagon_circle_detection.py, please use a similar format to the following one: (specify an image name after --image)
 python hexagon_circle_detection.py --image 10-11-2017-9.38.49_2.bmp
